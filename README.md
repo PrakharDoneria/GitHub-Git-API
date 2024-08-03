@@ -1,16 +1,7 @@
-Here’s a summary README with usage instructions and a link to the `/Documentation/` folder for detailed endpoint usage:
-
-### README
-
-## GitHub API Server
-
-This server provides endpoints to interact with GitHub repositories using Deno. You can create, delete, pull, and push to repositories with this API.
-
 ### Base URL
 
-```
-http://localhost:8000
-```
+[https://sketchware.deno.dev/](https://sketchware.deno.dev/)
+
 
 ### Endpoints
 
